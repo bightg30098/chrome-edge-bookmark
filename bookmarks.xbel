@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :46: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.google.com/" id="1">
+  <title></title>
+</bookmark>
+<bookmark href="https://gemini.google.com/app" id="2">
+  <title></title>
+</bookmark>
+<bookmark href="https://translate.google.com/" id="3">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.weblio.jp/" id="4">
+  <title></title>
+</bookmark>
+<bookmark href="https://onedrive.live.com/?id=root&amp;cid=10CCAAD2C6D9E040" id="5">
+  <title></title>
+</bookmark>
+<bookmark href="https://wistron-my.sharepoint.com/personal/leo_jhuo_wistron_com/_layouts/15/onedrive.aspx?view=1" id="6">
+  <title></title>
+</bookmark>
+<bookmark href="https://wistron.sharepoint.com/teams/msteams_039adf/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=qHbrSb&amp;CID=cfeef39d%2D8053%2D4fd6%2D8459%2D44c27d00393b&amp;FolderCTID=0x01200099B86CF1ECEDC349A9619E1C9FE6C096&amp;id=%2Fteams%2Fmsteams%5F039adf%2FShared%20Documents%2FGeneral" id="7">
+  <title></title>
+</bookmark>
+<bookmark href="https://portal.wistron.com/region?region_uuid=521cc451-e3fb-40e3-a923-f299b018f6ee" id="8">
+  <title></title>
+</bookmark>
+<bookmark href="https://pts.wistron.com/~pts/subsystem/tss/web_pages/application/my_time_sheet.php" id="9">
+  <title></title>
+</bookmark>
+<bookmark href="https://myaccount.microsoft.com/" id="10">
+  <title></title>
+</bookmark>
+<bookmark href="https://portal.azure.com/" id="11">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab.devpack.cc/" id="12">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab.wistron.com/" id="13">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab-es7000.wistron.com/ami_bmc" id="14">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab-es7000.wistron.com/nvbmc/grace/openbmc/openbmc/-/tree/wis/gaines2.0/main" id="15">
+  <title></title>
+</bookmark>
+<bookmark href="https://github.com/" id="16">
+  <title></title>
+</bookmark>
+<bookmark href="https://swpc.atlassian.net/jira/your-work" id="17">
+  <title></title>
+</bookmark>
+<bookmark href="https://excalidraw.com/" id="18">
+  <title></title>
+</bookmark>
+<bookmark href="https://bestofjs.org/" id="19">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.notion.so/10503052" id="20">
+  <title></title>
+</bookmark>
+<bookmark href="http://10.32.48.118:50005/department/ES1300" id="21">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.mermaidchart.com/app/projects/7b230030-dd64-4840-b0a3-d7b2e4ddbe53/diagrams/d348216c-fb42-4464-bbf6-a30858bce7dc/version/v0.1/edit" id="22">
+  <title></title>
+</bookmark>
+<bookmark href="https://adca.wistron.com/certsrv/" id="23">
+  <title>CA</title>
+</bookmark>
+<folder id="36">
+  <title>AMI</title>
+  <bookmark href="https://cp.ami.com/SitePages/Home.aspx" id="37">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://eip.ami.com/eip/issues/start.do" id="38">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://git.ami.com/dashboard/projects" id="39">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://git.ami.com/devnet/spx/releases/git-spx-plugin/git-spx-plugin-documents" id="40">
+    <title></title>
+  </bookmark>
+</folder>
+<folder id="41">
+  <title>BMC</title>
+  <bookmark href="https://github.com/openbmc/docs" id="42">
+    <title>openbmc/docs: OpenBMC Documentation</title>
+  </bookmark>
+  <bookmark href="https://github.com/openbmc/openbmc" id="43">
+    <title>openbmc/openbmc: OpenBMC Distribution</title>
+  </bookmark>
+  <bookmark href="https://github.com/DMTF" id="44">
+    <title>DMTF</title>
+  </bookmark>
+  <bookmark href="https://www.dmtf.org/standards/redfish" id="45">
+    <title>REDFISH | DMTF</title>
+  </bookmark>
+  <bookmark href="https://github.com/AspeedTech-BMC/openbmc/tree/v09.01/meta-aspeed-sdk" id="46">
+    <title>openbmc/meta-aspeed-sdk at v09.01 · AspeedTech-BMC/openbmc</title>
+  </bookmark>
+</folder>
+<bookmark href="https://witravel.wistron.com/homepage" id="24">
+  <title></title>
+</bookmark>
+<bookmark href="https://wiform.wistron.com/" id="25">
+  <title></title>
+</bookmark>
+<bookmark href="http://10.121.186.180/" id="26">
+  <title></title>
+</bookmark>
+<bookmark href="http://10.28.158.180/" id="27">
+  <title></title>
+</bookmark>
+<bookmark href="https://radiko.jp/" id="28">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.aerobile.com/eshop/tw/%E3%80%90%E7%BE%8E%E5%8A%A0%E5%A2%A8esim%E3%80%91at%26t-prepaid-58%E5%A4%A9%E5%8E%9F%E7%94%9Fesim%E4%B8%8A%E7%B6%B2%E5%8D%A1%EF%BC%88%E5%83%85%E6%94%AF%E6%8F%B4%E5%8F%AFesim%E4%B9%8Biphone%EF%BC%89-p-1086.html" id="29">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.freeliving.com.tw/visa/airport/index.aspx" id="30">
+  <title></title>
+</bookmark>
+<bookmark href="https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/rights/airport-transfer" id="31">
+  <title></title>
+</bookmark>
+<bookmark href="https://esbrain.wistron.com/login?redirect=%2F" id="32">
+  <title></title>
+</bookmark>
+<bookmark href="https://dpaprd.wistron.com/ApplicationBuilder/eFormRender.html?Process=travel_Model" id="33">
+  <title></title>
+</bookmark>
+<bookmark href="https://queryweb.easycard.com.tw/tra_web/" id="34">
+  <title></title>
+</bookmark>
+<bookmark href="https://hqers.wistron.com/Logon/Portal.aspx" id="35">
+  <title></title>
+</bookmark>
+</xbel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :46: for Floccus bookmark sync browser extension -->
+<!--- highestId :47: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -67,6 +67,9 @@
   <title></title>
 </bookmark>
 <bookmark href="https://www.mermaidchart.com/app/projects/7b230030-dd64-4840-b0a3-d7b2e4ddbe53/diagrams/d348216c-fb42-4464-bbf6-a30858bce7dc/version/v0.1/edit" id="22">
+  <title></title>
+</bookmark>
+<bookmark href="https://columbus.wistron.com/app/chatRoom" id="47">
   <title></title>
 </bookmark>
 <bookmark href="https://adca.wistron.com/certsrv/" id="23">

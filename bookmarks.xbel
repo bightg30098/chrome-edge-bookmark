@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :54: for Floccus bookmark sync browser extension -->
+<!--- highestId :55: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -46,6 +46,9 @@
   <title></title>
 </bookmark>
 <bookmark href="https://gitlab-es7000.wistron.com/nvbmc/grace/openbmc/openbmc/-/tree/wis/gaines2.0/main" id="15">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab-es1000.wistron.com/" id="55">
   <title></title>
 </bookmark>
 <bookmark href="https://github.com/" id="16">
@@ -141,13 +144,7 @@
 <bookmark href="http://10.32.48.245:10083/projects/gaines-wmx" id="49">
   <title></title>
 </bookmark>
-<bookmark href="https://gitlab-es7000.wistron.com/nvbmc/grace/openbmc/openbmc/-/blob/wis/gaines2.0/main/meta-nvidia/meta-prime/meta-graceblackwell/meta-gb200nvl/meta-bmc/recipes-kernel/linux/linux-aspeed/aspeed-bmc-nvidia-gb200nvl-bmc.dts" id="50">
-  <title></title>
-</bookmark>
 <bookmark href="https://booking.tigerairtw.com/zh-TW/portal/cobrand/Rakuten" id="51">
-  <title></title>
-</bookmark>
-<bookmark href="https://gitlab-es7000.wistron.com/ami_bmc/gb200nvl_ps1.1_config6/-/merge_requests/11/diffs?commit_id=093e1d4013c97c6232e8334a463d50a277c07aee#62a3f4b5b08012b151a0020206cf110b8f95c3f8" id="54">
   <title></title>
 </bookmark>
 </xbel>

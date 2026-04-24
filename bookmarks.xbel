@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :58: for Floccus bookmark sync browser extension -->
+<!--- highestId :59: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -148,6 +148,9 @@
   <title></title>
 </bookmark>
 <bookmark href="https://cp.ami.com/MegaRAC%20Documents/Forms/AllItems.aspx?RootFolder=%2fMegaRAC%20Documents%2fPublic%2fOneTree%e2%84%a2%2f3%2e0%2e1%5fQ1%5f2026&amp;FolderCTID=0x01200036F7ADA752E2624A92C6061CDE9E37B5" id="56">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab-es1000.wistron.com/es1300/internal/apd-x-wing_plus/ots25-xwing_plus" id="59">
   <title></title>
 </bookmark>
 </xbel>

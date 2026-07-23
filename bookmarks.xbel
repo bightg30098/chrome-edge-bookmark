@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :84: for Floccus bookmark sync browser extension -->
+<!--- highestId :85: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -172,6 +172,9 @@
   <title></title>
 </bookmark>
 <bookmark href="https://www.intel.com/content/www/us/en/secure/confidential/products/platforms/details/oak-stream.html" id="79">
+  <title></title>
+</bookmark>
+<bookmark href="https://gitlab-es1000.wistron.com/es1300/internal/heracle/meta-heracle" id="85">
   <title></title>
 </bookmark>
 </xbel>
